@@ -1,5 +1,5 @@
 <?php
-// Cau 1
+// Cau 1 a
     function sortDesc($arr){
         for($i = 0; $i < count($arr); $i++){
             for($j = $i+1; $j < count($arr); $j++){
@@ -19,9 +19,9 @@
             echo $value.' ';
         }
     }
-// end cau 1
+// end cau 1 a
 
-// cau 2
+// cau 1b
 
     function frequency($arr){
         $max = 0; $index = 0;
@@ -52,5 +52,5 @@
         }
         return $arr;
     }
-// End cau 2
+// End cau 1b
 ?>
