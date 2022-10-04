@@ -1,4 +1,5 @@
 <?php
+echo "aha, bat ngo chua ba gia?";
 // Cau 1 a
     function sortDesc($arr){
         for($i = 0; $i < count($arr); $i++){
